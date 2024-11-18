@@ -1,2 +1,1 @@
-Some Basic Programs of C    return
-Ignore the extension .cpp
+Some Basic Programs of C, Ignore the extension (.cpp)
